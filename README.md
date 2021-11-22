@@ -26,7 +26,7 @@
 ![](/output7.png)
 ![](/output8.png)
 
-##Teste
+## Teste
 ![](/testing_(1).png) 
 ![](/testing_(2).png)
 ![](/testing_(3).png)
@@ -37,7 +37,7 @@
 ![](/testing (8).png)
 ![](/testing (9).png)
 
-##Previsão
+## Previsão
 ![](/Predictions (1).png) 
 ![](/Predictions (2).png)
 ![](/Predictions (3).png)
