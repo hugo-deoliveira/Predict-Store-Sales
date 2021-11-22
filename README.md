@@ -25,15 +25,7 @@
 ![](/output6.png)
 ![](/output7.png)
 ![](/output8.png)
-![](/output8.png)
-![](/output8.png)
-![](/output8.png)
-![](/output8.png)
-![](/output8.png)
-![](/output8.png)
-![](/output8.png)
-![](/output8.png)
-![](/output8.png)
+
 
 
 ## Teste
@@ -48,7 +40,7 @@
 ![](/testing (9).png)
 
 ## Previsão
-![](/Predictions (1).png) 
+![]("/Predictions (1).png") 
 ![](/Predictions (2).png)
 ![](/Predictions (3).png)
 ![](/Predictions (4).png)
