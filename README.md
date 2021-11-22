@@ -40,7 +40,7 @@
 ![](/testing (9).png)
 
 ## Previsão
-![]("/Predictions (1).png") 
+![](/Predictions (1).png) 
 ![](/Predictions (2).png)
 ![](/Predictions (3).png)
 ![](/Predictions (4).png)
@@ -48,4 +48,4 @@
 ![](/Predictions (6).png)
 ![](/Predictions (7).png)
 ![](/Predictions (8).png)
-![](/Predictions (9).png)
+![](/Predictions%20(9).png)
